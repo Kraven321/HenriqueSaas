@@ -59,7 +59,7 @@ async function postData(formData: FormData) {
         <form action={postData}>
           <CardHeader>
             <CardTitle>General Data</CardTitle>
-            <CardDescription>Please provide general information about yourself. Please don't forget to save</CardDescription>
+            <CardDescription>Please provide general information about yourself. Please dont forget to save</CardDescription>
           </CardHeader>
           <CardContent>
             <div className='space-y-2'>
